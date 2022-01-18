@@ -1,7 +1,7 @@
 ---
 title: "Init"
 date: 2022-01-18T19:42:59+01:00
-draft: true
+draft: false
 ---
 
 * This my Init post for Hugo
@@ -18,3 +18,9 @@ This is ~verbatim~, =code=, /italics/, *bold* and _underlined_ as well.
 * TODO Buy milk.
 * WAIT Get money to but milk.
 * DONE Get a Job.
+
+#+BEGIN_SRC python
+    import numpy as np
+    a = np.array([1,2,3,4])
+    a.sum()
+#+END_SRC
