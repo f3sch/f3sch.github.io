@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'f3sch blog'
 theme = "m10c"
 avatar = "/static/avatar.jpg"
+copyright = "GPL-2.0"
+[author]
+  name = 'Felix Schlepper'
 
 [menu]
   [[menu.main]]
@@ -26,8 +29,6 @@ avatar = "/static/avatar.jpg"
     url = "/about/"
     weight = 4
 
-# TODO
-# - Add RSS feed
 [params]
     author = "Felix Schlepper"
     description = "Student"
@@ -37,6 +38,11 @@ avatar = "/static/avatar.jpg"
         icon = "github"
         name = "Github"
         url = "https://github.com/f3sch"
+    [[params.social]]
+        icon = "rss"
+        name = "RSS"
+        url = "https://f3sch.github.io/blog/index.xml"
+
 
     #Default theme
     [params.style]
