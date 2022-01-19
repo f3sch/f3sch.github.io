@@ -28,7 +28,6 @@ avatar = "/static/avatar.jpg"
 
 # TODO
 # - Add RSS feed
-# - Make dracula theme
 [params]
     author = "Felix Schlepper"
     description = "Student"
@@ -45,4 +44,4 @@ avatar = "/static/avatar.jpg"
         darkColor = "#1E2029"
         lightColor = "#e2e2dc"
         lightestColor = "#f8f8f2"
-        primaryColor = "#5bd93f"
+        primaryColor = "#bd93f9"
