@@ -1,6 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on f3sch blog</title><link>https://f3sch.github.io/blog/</link><description>Recent content in Blogs on f3sch blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 19:42:59 +0100</lastBuildDate><atom:link href="https://f3sch.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Init</title><link>https://f3sch.github.io/blog/init/</link><pubDate>Tue, 18 Jan 2022 19:42:59 +0100</pubDate><guid>https://f3sch.github.io/blog/init/</guid><description>This my Init post for Hugo Some Tests.
-More stuff This is verbatim, code, italics, bold and underlined as well.
-Item one
-Item 2
-Item 3
-Deeper TODO Buy milk. WAIT Get money to but milk. DONE Get a Job. import numpy as np a = np.array([1,2,3,4]) a.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on f3sch blog</title><link>https://f3sch.github.io/blog/</link><description>Recent content in Blogs on f3sch blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>GPL-2.0</copyright><lastBuildDate>Tue, 18 Jan 2022 19:42:59 +0100</lastBuildDate><atom:link href="https://f3sch.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Init</title><link>https://f3sch.github.io/blog/init/</link><pubDate>Tue, 18 Jan 2022 19:42:59 +0100</pubDate><guid>https://f3sch.github.io/blog/init/</guid><description>
+&lt;div id="outline-container-headline-1" class="outline-2">
+&lt;h2 id="headline-1">
+This my Init post for Hugo
+&lt;/h2>
+&lt;div id="outline-text-headline-1" class="outline-text-2">
+&lt;p>
+Some Tests.&lt;/p>
+&lt;div id="outline-container-headline-2" class="outline-3">
+&lt;h3 id="headline-2">
+More stuff
+&lt;/h3>
+&lt;div id="outline-text-headline-2" class="outline-text-3">
+&lt;p>This is &lt;code>verbatim&lt;/code>, &lt;code class="verbatim">code&lt;/code>, &lt;em>italics&lt;/em>, &lt;strong>bold&lt;/strong> and &lt;span style="text-decoration: underline;">underlined&lt;/span> as well.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Item one&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Item 2&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Item 3&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;div id="outline-container-headline-3" class="outline-4">
+&lt;h4 id="headline-3">
+Deeper
+&lt;/h4>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div id="outline-container-headline-4" class="outline-2">
+&lt;h2 id="headline-4">
+&lt;span class="todo">TODO&lt;/span>
+Buy milk.
+&lt;/h2>
+&lt;/div>
+&lt;div id="outline-container-headline-5" class="outline-2">
+&lt;h2 id="headline-5">
+WAIT Get money to but milk.
+&lt;/h2>
+&lt;/div>
+&lt;div id="outline-container-headline-6" class="outline-2">
+&lt;h2 id="headline-6">
+&lt;span class="todo">DONE&lt;/span>
+Get a Job.
+&lt;/h2>
+&lt;div id="outline-text-headline-6" class="outline-text-2">
+&lt;div class="src src-python">
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python"> &lt;span style="color:#f92672">import&lt;/span> numpy &lt;span style="color:#66d9ef">as&lt;/span> np
+a &lt;span style="color:#f92672">=&lt;/span> np&lt;span style="color:#f92672">.&lt;/span>array([&lt;span style="color:#ae81ff">1&lt;/span>,&lt;span style="color:#ae81ff">2&lt;/span>,&lt;span style="color:#ae81ff">3&lt;/span>,&lt;span style="color:#ae81ff">4&lt;/span>])
+a&lt;span style="color:#f92672">.&lt;/span>sum()&lt;/code>&lt;/pre>&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
