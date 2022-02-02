@@ -1,0 +1,55 @@
+---
+title: "Books"
+date: 2022-02-01T09:18:44+01:00
+draft: false
+---
+
+* Books I am reading:
+** Programming
+*** C/C++
+- [ ] The Art of Writing Efficient Programs by Fedor G. Pikus
+- [ ] C++ High Performance: Master the art of optimizing the functiioning of your C++ code by Björn Andrist and Viktor Sehr
+*** Linux
+*** Operating Systems
+*** History
+** Pleasure
+** Cryptography
+- [ ] Serious Cryptography: A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson
+
+
+* Books I read:
+** Programming
+*** C/C++
+- [X] The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie
+- [-] Pro TBB: C++ Parallel Programming with Threading Building Blocks by Michael Voss, Rafael Asenjo and James Reinders
+- [X] Professional CMake: A Practical Guide by Craig Scott
+- [-] Structured Parallel Programming: Patterns for Efficient Computation by Michael McCool, Arch D. Robinson and Hames Reinders
+- [-] A Tour of C++ 2nd Ed. by Bjarne Stroustrup
+*** Linux
+- [X] UNIX System Security: A Guide for Users and System Administrators by David A. Curry
+- [X] The Linux Programming Interface: A Linux and UNIX System Programming Handbook by Michael Kerrisk
+- [X] Linux System Programming by Robert Love 2nd Ed.
+- [X] Linux Kernel in a Nutshell: A Desktop Quick Reference by Greg Kroah-Hartmann
+*** Operating Systems
+- [-] Real-time Operating Systems Book 1 and 2 by Jim Cooling
+*** History
+** Pleasure
+** Cryptography
+
+* Books I want to read:
+** Programming
+*** C/C++
+- [ ] Programming Embedded Systems in C and C++ by Michael Barr
+*** Linux
+- [ ] Linux Kernel Programming Part 2: Char Device Drivers and Kernel Synchronization by Kaiwan N Billimoria
+- [ ] Linux Device Drivers 3rd Ed. by Jonathan Corbet, Alessandro Rubini and Greg Kroah-Hartmann
+*** Operating Systems
+- [ ] Real-time Operating Systems Book 1 and 2 by Jim Cooling
+*** History
+** Pleasure
+** Cryptography
+
+* Note
+This is a non exhaustive list of books I read.
+
+#  LocalWords:  Kerrisk Ritchie Kernighan Reinders Billimoria Stroustrup
